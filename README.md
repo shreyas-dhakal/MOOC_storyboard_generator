@@ -4,8 +4,8 @@ A simple AI agent-based program to generate presentation slides and lecturer dia
 ## How to run
 Clone the project into your local machine and navigate into the directory.
 ```
-git clone 
-cd ./challenge_project
+git clone https://github.com/shreyas-dhakal/hehehehehe
+cd ./hehehehehe
 ```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries from requirements.txt
