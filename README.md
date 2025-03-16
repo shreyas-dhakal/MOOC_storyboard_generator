@@ -20,4 +20,3 @@ python storyboard_generator.py
 ```
 Enter your OpenAI API Key into the prompt and you're good to go.
 
-## Methodology
